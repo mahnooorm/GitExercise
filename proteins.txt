@@ -5,3 +5,7 @@ Hemoglobin-alpha Human HBA_HUMAN P69905 142
 Hemoglobin-beta Human HBB_HUMAN P68871 147
 PFKM Human PFKAM_HUMAN P08237 780
 Pfkm Mouse PFKAM_MOUSE P47857 780
+<<<<<<< HEAD
+=======
+NEW LINE
+>>>>>>> 35a7a3bf119f1afd0987948bd7273bdd2b2f31de
